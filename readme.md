@@ -1,0 +1,5 @@
+-h> header
+-c> card
+-f> footer
+-i> input
+-fo> from
